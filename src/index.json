@@ -31244,14 +31244,14 @@
                         "Programming Language :: Python :: 3.7",
                         "Programming Language :: Python :: 3.8",
                         "Programming Language :: Python :: 3.9",
-                        "Programming Language :: Python :: 3.10"
+                        "Programming Language :: Python :: 3.10",
+                        "License :: OSI Approved :: MIT License"
                     ],
-                    "description_content_type": "text/x-rst",
                     "extensions": {
                         "python.details": {
                             "contacts": [
                                 {
-                                    "email": "qbs-ops@consensys.net",
+                                    "email": "qbs-team@consensys.net",
                                     "name": "ConsenSys",
                                     "role": "author"
                                 }
@@ -31271,7 +31271,7 @@
                     "summary": "Support for Quorum Blockchain Service.",
                     "version": "0.1.0"
                 },
-                "sha256Digest": "227f2f508529ac1a9c662797bf878981079a65bff4a0dfa7d705727c43cced15"
+                "sha256Digest": "5cb81b91d37075fcf66ad5d6ad0edb40b29c94a6a5b39bfe05b07b050202deda"
             }
         ],
         "quantum": [
