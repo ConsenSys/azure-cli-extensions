@@ -194,8 +194,9 @@ def linter_on_internal_extension(modified_files):
 
 
 def main():
-    modified_files = find_modified_files_against_master_branch()
-
+    modified_files = ['src/index.json'] #find_modified_files_against_master_branch()
+    print("tralala")
+    print("modified files " + str(modified_files))
     if len(modified_files) == 1 and contain_index_json(modified_files):
         # Scenario 1.
         # This scenarios is for modify index.json only.
